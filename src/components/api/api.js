@@ -1,4 +1,3 @@
-import React from "react";
 let list = "";
 export async function Fetch() {
   await fetch("https://catfact.ninja/facts")
